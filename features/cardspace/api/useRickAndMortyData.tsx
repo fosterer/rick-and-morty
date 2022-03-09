@@ -1,5 +1,6 @@
 import { gql, useQuery } from "@apollo/client";
 import { useIndexStore } from "@/stores/indexStore";
+import { RickAndMortyQuery } from "@/features/cardspace/types/types";
 
 const myQuery = gql`
   query myQuery($name: String) {
@@ -39,47 +40,6 @@ const myQuery = gql`
     }
   }
 `;
-
-interface Character {
-  name: string;
-  status: string;
-  species: string;
-  type: string;
-  gender: string;
-  origin: Location;
-  location: Location;
-  image: string;
-}
-
-interface Characters {
-  results: Character[];
-}
-
-interface Location {
-  name: string;
-  type: string;
-  dimension: string;
-}
-
-interface Episode {
-  name: string;
-  air_date: string;
-  episode: string;
-}
-
-interface Episodes {
-  results: Episode[];
-}
-
-interface Locations {
-  results: Location[];
-}
-
-interface RickAndMortyQuery {
-  characters: Characters | null;
-  episodes: Episodes | null;
-  locations: Locations | null;
-}
 
 export const useRickAndMortyData = () => {
   const nameParam = useIndexStore((state) => state.queryParamName);
