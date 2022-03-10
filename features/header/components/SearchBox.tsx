@@ -16,6 +16,7 @@ export const SearchBox = () => {
         placeholder="Type to discover..."
         type={"text"}
         value={value}
+        autoFocus
         maxLength={20}
         onChange={(e) => {
           const value = e.currentTarget.value;
