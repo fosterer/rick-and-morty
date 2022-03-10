@@ -1,23 +1,4 @@
-# Next.js + Jest
+# Rick and Morty API Explorer
+Simple Example with Nextjs, Apollo Client and Tailwind CSS.
 
-This example shows how to configure Jest to work with Next.js.
-
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript.
-
-## How to Use
-
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
-
-In your terminal, run the following command:
-
-```bash
-npx create-next-app --example with-jest with-jest-app
-# or
-yarn create next-app --example with-jest with-jest-app
-```
-
-## Run Jest Tests
-
-```bash
-npm test
-```
+Live Demo: https://p-ta1-rmk2j6n7t-fosterer.vercel.app/
