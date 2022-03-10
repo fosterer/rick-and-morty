@@ -17,6 +17,8 @@ const customJestConfig = {
     "^@/features/(.*)$": "<rootDir>/features/$1",
 
     "^@/stores/(.*)$": "<rootDir>/stores/$1",
+
+    "^@/lib/(.*)$": "<rootDir>/lib/$1",
   },
   testEnvironment: "jest-environment-jsdom",
 };

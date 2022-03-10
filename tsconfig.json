@@ -20,9 +20,10 @@
       "@/pages/*": ["pages/*"],
       "@/styles/*": ["styles/*"],
       "@/features/*": ["features/*"],
-      "@/stores/*": ["stores/*"]
+      "@/stores/*": ["stores/*"],
+      "@/lib/*": ["lib/*"],
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts", "__mocks__/server.js"],
   "exclude": ["node_modules"]
 }

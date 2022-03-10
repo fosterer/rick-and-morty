@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders inline with snapshot 1`] = `
+<div>
+  <div
+    class="relative"
+  >
+    <div
+      class="fixed flex items-center z-10 w-full h-24 bg-slate-700"
+    >
+      <div
+        class="flex items-center ml-3"
+      >
+        <div
+          class="m-3 text-slate-100 text-lg"
+        >
+          Rick and Morty Series Explorer
+        </div>
+        <span>
+          <input
+            class="mx-5 ring px-2 py-1 rounded focus:outline-none focus:ring-blue-500 bg-slate-300 placeholder:text-slate-700"
+            maxlength="20"
+            placeholder="Type to discover..."
+            type="text"
+            value=""
+          />
+        </span>
+      </div>
+    </div>
+    <div
+      class="pt-24 z-0"
+    >
+      <div
+        class="m-3 flex flex-wrap"
+      >
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring-2 rounded p-1 ring-yellow-800 bg-slate-400"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 200px; height: 282px;"
+          >
+            <li
+              class="animate-pulse"
+            >
+              Loading...
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
