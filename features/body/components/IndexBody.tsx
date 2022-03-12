@@ -51,9 +51,13 @@ export const IndexBody = () => {
           onChange={handleChange}
           aria-label="basic tabs example"
         >
-          <Tab label="Characters" {...a11yProps(0)} />
-          <Tab label="Episodes" {...a11yProps(1)} />
-          <Tab label="Locations" {...a11yProps(2)} />
+          <Tab
+            label="Characters"
+            {...a11yProps(0)}
+            className="text-slate-300"
+          />
+          <Tab label="Episodes" {...a11yProps(1)} className="text-slate-300" />
+          <Tab label="Locations" {...a11yProps(2)} className="text-slate-300" />
         </Tabs>
       </Box>
       <TabPanel value={active} index={0}>
