@@ -14,14 +14,8 @@ export const CardCharacter = (data: Character) => {
           />
         </li>
         <li className="text-xl truncate overflow-hidden mx-1">{data.name}</li>
-        <li className="space-x-2">
-          <span>{data.gender}</span>
-          <span>{data.species}</span>
-        </li>
-        <li className="space-x-1">
-          <span className="text-sm">Status:</span>
-          <span>{data.status}</span>
-        </li>
+        <li className="truncate overflow-hidden mx-1">{data.species}</li>
+        <li className="mx-1">{data.status}</li>
       </ul>
     </div>
   );
