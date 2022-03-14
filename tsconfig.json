@@ -22,6 +22,8 @@
       "@/features/*": ["features/*"],
       "@/stores/*": ["stores/*"],
       "@/lib/*": ["lib/*"],
+      "@/types/*": ["types/*"],
+
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts", "__mocks__/server.js"],
