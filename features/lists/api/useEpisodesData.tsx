@@ -1,4 +1,4 @@
-import { Character, Episode, Info } from "@/types/typesGraphApi";
+import { EpisodesDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
 
 const useEpisodesDataQuery = gql`
@@ -20,15 +20,8 @@ const useEpisodesDataQuery = gql`
   }
 `;
 
-interface EpisodeDataQuery {
-  episodes: {
-    info: Info;
-    results: Pick<Episode, "id" | "name" | "air_date" | "episode">[];
-  };
-}
-
 export const useEpisodesData = (page: number) => {
-  const { data, loading, error } = useQuery<EpisodeDataQuery>(
+  const { data, loading, error } = useQuery<EpisodesDataQuery>(
     useEpisodesDataQuery,
     {
       variables: { page: page },

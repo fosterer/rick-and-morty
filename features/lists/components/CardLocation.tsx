@@ -1,4 +1,6 @@
-export const CardLocation = (data: any) => {
+import { LocationsResult } from "../types/types";
+
+export const CardLocation = (data: LocationsResult) => {
   return (
     <div className="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800">
       <ul

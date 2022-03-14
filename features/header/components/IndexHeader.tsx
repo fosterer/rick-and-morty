@@ -1,4 +1,4 @@
-import { SearchBox } from "@/features/header/components/OBSOLETE__SearchBox";
+import { SearchBox } from "@/features/header/components/SearchBox";
 
 export const IndexHeader = () => {
   return (

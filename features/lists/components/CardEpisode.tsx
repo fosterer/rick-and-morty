@@ -1,4 +1,6 @@
-export const CardEpisode = (data: any) => {
+import { EpisodesResult } from "../types/types";
+
+export const CardEpisode = (data: EpisodesResult) => {
   return (
     <div className="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800">
       <ul

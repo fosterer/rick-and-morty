@@ -1,4 +1,4 @@
-import { Character, Episode, Info, Location } from "@/types/typesGraphApi";
+import { LocationsDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
 
 const useLocationsDataQuery = gql`
@@ -19,15 +19,8 @@ const useLocationsDataQuery = gql`
   }
 `;
 
-interface LocationDataQuery {
-  locations: {
-    info: Info;
-    results: Pick<Location, "id" | "name" | "type">[];
-  };
-}
-
 export const useLocationsData = (page: number) => {
-  const { data, loading, error } = useQuery<LocationDataQuery>(
+  const { data, loading, error } = useQuery<LocationsDataQuery>(
     useLocationsDataQuery,
     {
       variables: { page: page },

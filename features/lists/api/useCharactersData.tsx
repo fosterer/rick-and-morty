@@ -1,4 +1,4 @@
-import { Character, Info } from "@/types/typesGraphApi";
+import { CharactersDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
 
 const useCharactersDataQuery = gql`
@@ -21,15 +21,8 @@ const useCharactersDataQuery = gql`
   }
 `;
 
-interface CharacterDataQuery {
-  characters: {
-    info: Info;
-    results: Pick<Character, "id" | "name" | "status" | "species" | "image">[];
-  };
-}
-
 export const useCharactersData = (page: number) => {
-  const { data, loading, error } = useQuery<CharacterDataQuery>(
+  const { data, loading, error } = useQuery<CharactersDataQuery>(
     useCharactersDataQuery,
     {
       variables: { page: page },
