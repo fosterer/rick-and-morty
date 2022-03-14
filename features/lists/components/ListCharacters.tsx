@@ -24,7 +24,7 @@ export const ListCharacters = () => {
       <div className="mx-4">
         <div className="float-right space-x-3 m-4">
           <button
-            className="bg-slate-700 px-2 py-1 rounded hover:bg-slate-600"
+            className="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
             hidden={data.characters.info.prev === null}
             onClick={() => {
               setPage(page - 1);
@@ -33,7 +33,7 @@ export const ListCharacters = () => {
             Previous Page
           </button>
           <button
-            className="bg-slate-700 px-2 py-1 rounded hover:bg-slate-600"
+            className="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
             hidden={data.characters.info.next === null}
             onClick={() => {
               const next = page + 1;
