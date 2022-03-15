@@ -8,7 +8,8 @@ export const ListCharacters = () => {
 
   if (loading) return <div className="m-5">Loading...</div>;
   if (error) return <div>Oh no, an error occured...</div>;
-  if (!data || !data.characters) return <div className="m-5">Hmm, please try someting else...</div>;
+  if (!data || !data.characters)
+    return <div className="m-5">Hmm, please try someting else...</div>;
 
   const cards = data.characters.results.map((row) => (
     <CardCharacter {...row} key={row.id} />

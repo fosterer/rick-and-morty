@@ -1,6 +1,6 @@
 import { LocationsDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useIndexStore } from "@/stores/indexStore";
 
 const useLocationsDataQuery = gql`
@@ -25,6 +25,10 @@ export const useLocationsData = () => {
   const [page, setPage] = useState(1);
   const [filter, setFilter] = useState("");
   const userInputFilter = useIndexStore((state) => state.queryParamName);
+  if (filter !== userInputFilter) {
+    setPage(1);
+    setFilter(userInputFilter);
+  }
   const { data, loading, error } = useQuery<LocationsDataQuery>(
     useLocationsDataQuery,
     {
@@ -32,13 +36,6 @@ export const useLocationsData = () => {
       errorPolicy: "ignore",
     }
   );
-
-  useEffect(() => {
-    if (filter !== userInputFilter) {
-      setPage(1);
-      setFilter(userInputFilter);
-    }
-  }, [userInputFilter]);
 
   return { data, loading, error, setPage };
 };

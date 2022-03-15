@@ -1,7 +1,7 @@
 import { CharactersDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
 import { useIndexStore } from "@/stores/indexStore";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const useCharactersDataQuery = gql`
   query useCharactersDataQuery($page: Int, $name: String) {
@@ -27,6 +27,10 @@ export const useCharactersData = () => {
   const [page, setPage] = useState(1);
   const [filter, setFilter] = useState("");
   const userInputFilter = useIndexStore((state) => state.queryParamName);
+  if (filter !== userInputFilter) {
+    setPage(1);
+    setFilter(userInputFilter);
+  }
   const { data, loading, error } = useQuery<CharactersDataQuery>(
     useCharactersDataQuery,
     {
@@ -34,13 +38,6 @@ export const useCharactersData = () => {
       errorPolicy: "ignore",
     }
   );
-
-  useEffect(() => {
-    if (filter !== userInputFilter) {
-      setPage(1);
-      setFilter(userInputFilter);
-    }
-  }, [userInputFilter]);
 
   return { data, loading, error, setPage };
 };
