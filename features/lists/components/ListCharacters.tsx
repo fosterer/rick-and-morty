@@ -1,7 +1,7 @@
 import { useCharactersData } from "../api/useCharactersData";
 import { useState } from "react";
 import { CardCharacter } from "./CardCharacter";
-import { ListLayout } from "./ListLayout";
+import { ListLayout } from "./layouts/ListLayout";
 
 export const ListCharacters = () => {
   const { data, loading, error, setPage } = useCharactersData();

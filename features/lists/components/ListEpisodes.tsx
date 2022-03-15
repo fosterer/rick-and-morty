@@ -1,7 +1,7 @@
 import { useEpisodesData } from "../api/useEpisodesData";
 import { useState } from "react";
 import { CardEpisode } from "./CardEpisode";
-import { ListLayout } from "./ListLayout";
+import { ListLayout } from "./layouts/ListLayout";
 
 export const ListEpisodes = () => {
   const { data, loading, error, setPage } = useEpisodesData();

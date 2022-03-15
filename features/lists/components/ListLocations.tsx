@@ -1,7 +1,7 @@
 import { CardLocation } from "./CardLocation";
 import { useState } from "react";
 import { useLocationsData } from "../api/useLocationsData";
-import { ListLayout } from "./ListLayout";
+import { ListLayout } from "./layouts/ListLayout";
 
 export const ListLocations = () => {
   const { data, loading, error, setPage } = useLocationsData();

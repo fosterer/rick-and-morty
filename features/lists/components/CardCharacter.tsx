@@ -1,14 +1,15 @@
 import { CharactersResult } from "../types/types";
 import Image from "next/image";
+import { CardLayout } from "@/features/lists/components/layouts/CardLayout";
 
 export const CardCharacter = (data: CharactersResult) => {
   return (
-    <div className="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800">
-      <ul className="text-center" style={{ width: "160px", height: "242px" }}>
+    <CardLayout {...{ __typename: data.__typename, id: data.id }}>
+      <ul className="text-center z-10" style={{ width: "160px", height: "242px" }}>
         <li>
           {data.image ? (
             <Image
-              className="rounded-t"
+              className="rounded-t z-0"
               src={data.image}
               width={160}
               height={160}
@@ -21,6 +22,6 @@ export const CardCharacter = (data: CharactersResult) => {
         <li className="truncate overflow-hidden mx-1">{data.species}</li>
         <li className="mx-1">{data.status}</li>
       </ul>
-    </div>
+    </CardLayout>
   );
 };

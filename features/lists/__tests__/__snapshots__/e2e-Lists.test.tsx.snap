@@ -13,10 +13,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
         class="absolute flex flex-wrap"
       >
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -34,7 +44,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F1.jpeg&w=384&q=75"
@@ -62,10 +72,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -83,7 +103,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F2.jpeg&w=384&q=75"
@@ -111,10 +131,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -132,7 +162,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F3.jpeg&w=384&q=75"
@@ -160,10 +190,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -181,7 +221,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F4.jpeg&w=384&q=75"
@@ -209,10 +249,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -230,7 +280,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F5.jpeg&w=384&q=75"
@@ -258,10 +308,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -279,7 +339,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F6.jpeg&w=384&q=75"
@@ -307,10 +367,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -328,7 +398,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F7.jpeg&w=384&q=75"
@@ -356,10 +426,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -377,7 +457,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F8.jpeg&w=384&q=75"
@@ -405,10 +485,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -426,7 +516,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F9.jpeg&w=384&q=75"
@@ -454,10 +544,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -475,7 +575,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F10.jpeg&w=384&q=75"
@@ -503,10 +603,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -524,7 +634,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F11.jpeg&w=384&q=75"
@@ -552,10 +662,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -573,7 +693,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F12.jpeg&w=384&q=75"
@@ -601,10 +721,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -622,7 +752,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F13.jpeg&w=384&q=75"
@@ -650,10 +780,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -671,7 +811,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F14.jpeg&w=384&q=75"
@@ -699,10 +839,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -720,7 +870,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F15.jpeg&w=384&q=75"
@@ -748,10 +898,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -769,7 +929,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F16.jpeg&w=384&q=75"
@@ -797,10 +957,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -818,7 +988,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F17.jpeg&w=384&q=75"
@@ -846,10 +1016,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -867,7 +1047,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F18.jpeg&w=384&q=75"
@@ -895,10 +1075,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -916,7 +1106,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F19.jpeg&w=384&q=75"
@@ -944,10 +1134,20 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
-            class="text-center"
+            class="text-center z-10"
             style="width: 160px; height: 242px;"
           >
             <li>
@@ -965,7 +1165,7 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
                   />
                 </span>
                 <img
-                  class="rounded-t"
+                  class="rounded-t z-0"
                   data-nimg="intrinsic"
                   decoding="async"
                   src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F20.jpeg&w=384&q=75"
@@ -1030,8 +1230,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
         class="absolute flex flex-wrap"
       >
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1054,8 +1264,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1078,8 +1298,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1102,8 +1332,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1126,8 +1366,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1150,8 +1400,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1174,8 +1434,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1198,8 +1468,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1222,8 +1502,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1246,8 +1536,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1270,8 +1570,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1294,8 +1604,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1318,8 +1638,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1342,8 +1672,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1366,8 +1706,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1390,8 +1740,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1414,8 +1774,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1438,8 +1808,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1462,8 +1842,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1486,8 +1876,18 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1547,8 +1947,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
         class="absolute flex flex-wrap"
       >
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1566,8 +1976,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1585,8 +2005,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1604,8 +2034,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1623,8 +2063,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1642,8 +2092,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1661,8 +2121,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1680,8 +2150,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1699,8 +2179,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1718,8 +2208,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1737,8 +2237,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1756,8 +2266,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1775,8 +2295,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1794,8 +2324,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1813,8 +2353,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1832,8 +2382,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1851,8 +2411,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1870,8 +2440,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1889,8 +2469,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
@@ -1908,8 +2498,18 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+          class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
+          <div
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            id="hover-overlay"
+          >
+            <button
+              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+            >
+              View
+            </button>
+          </div>
           <ul
             class="text-center flex flex-col justify-center"
             style="width: 330px; height: 100px;"
