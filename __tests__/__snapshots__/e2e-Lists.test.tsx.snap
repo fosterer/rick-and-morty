@@ -1,0 +1,1952 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListCharacters renders inline with snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col grow"
+    id="list-episodes"
+  >
+    <div
+      class="flex flex-col grow relative overflow-auto"
+    >
+      <div
+        class="absolute flex flex-wrap"
+      >
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F1.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F1.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F1.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              TEST
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F2.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F2.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F2.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Morty Smith
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F3.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F3.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F3.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Summer Smith
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F4.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F4.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F4.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Beth Smith
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F5.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F5.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F5.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Jerry Smith
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F6.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F6.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F6.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Abadango Cluster Princess
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Alien
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F7.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F7.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F7.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Abradolf Lincler
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F8.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F8.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F8.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Adjudicator Rick
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F9.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F9.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F9.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Agency Director
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F10.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F10.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F10.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Alan Rails
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F11.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F11.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F11.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Albert Einstein
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F12.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F12.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F12.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Alexander
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F13.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F13.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F13.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Alien Googah
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Alien
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F14.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F14.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F14.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Alien Morty
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Alien
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F15.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F15.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F15.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Alien Rick
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Alien
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F16.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F16.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F16.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Amish Cyborg
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Alien
+            </li>
+            <li
+              class="mx-1"
+            >
+              Dead
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F17.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F17.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F17.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Annie
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F18.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F18.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F18.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Antenna Morty
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              Alive
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F19.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F19.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F19.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Antenna Rick
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center"
+            style="width: 160px; height: 242px;"
+          >
+            <li>
+              <span
+                style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+              >
+                <span
+                  style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%27160%27/%3e"
+                    style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                  />
+                </span>
+                <img
+                  class="rounded-t"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  src="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F20.jpeg&w=384&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F20.jpeg&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Frickandmortyapi.com%2Fapi%2Fcharacter%2Favatar%2F20.jpeg&w=384&q=75 2x"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+                <noscript />
+              </span>
+            </li>
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Ants in my Eyes Johnson
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Human
+            </li>
+            <li
+              class="mx-1"
+            >
+              unknown
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="mx-4"
+    >
+      <div
+        class="float-right space-x-3 m-4"
+      >
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+          hidden=""
+        >
+          Previous Page
+        </button>
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+        >
+          Next Page
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ListEpisodes renders inline with snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col grow"
+    id="list-episodes"
+  >
+    <div
+      class="flex flex-col grow relative overflow-auto"
+    >
+      <div
+        class="absolute flex flex-wrap"
+      >
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              TEST
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E01
+            </li>
+            <li
+              class="mx-1"
+            >
+              December 2, 2013
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Lawnmower Dog
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E02
+            </li>
+            <li
+              class="mx-1"
+            >
+              December 9, 2013
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Anatomy Park
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E03
+            </li>
+            <li
+              class="mx-1"
+            >
+              December 16, 2013
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              M. Night Shaym-Aliens!
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E04
+            </li>
+            <li
+              class="mx-1"
+            >
+              January 13, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Meeseeks and Destroy
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E05
+            </li>
+            <li
+              class="mx-1"
+            >
+              January 20, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Rick Potion #9
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E06
+            </li>
+            <li
+              class="mx-1"
+            >
+              January 27, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Raising Gazorpazorp
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E07
+            </li>
+            <li
+              class="mx-1"
+            >
+              March 10, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Rixty Minutes
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E08
+            </li>
+            <li
+              class="mx-1"
+            >
+              March 17, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Something Ricked This Way Comes
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E09
+            </li>
+            <li
+              class="mx-1"
+            >
+              March 24, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Close Rick-counters of the Rick Kind
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E10
+            </li>
+            <li
+              class="mx-1"
+            >
+              April 7, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Ricksy Business
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S01E11
+            </li>
+            <li
+              class="mx-1"
+            >
+              April 14, 2014
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              A Rickle in Time
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E01
+            </li>
+            <li
+              class="mx-1"
+            >
+              July 26, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Mortynight Run
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E02
+            </li>
+            <li
+              class="mx-1"
+            >
+              August 2, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Auto Erotic Assimilation
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E03
+            </li>
+            <li
+              class="mx-1"
+            >
+              August 9, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Total Rickall
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E04
+            </li>
+            <li
+              class="mx-1"
+            >
+              August 16, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Get Schwifty
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E05
+            </li>
+            <li
+              class="mx-1"
+            >
+              August 23, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              The Ricks Must Be Crazy
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E06
+            </li>
+            <li
+              class="mx-1"
+            >
+              August 30, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Big Trouble in Little Sanchez
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E07
+            </li>
+            <li
+              class="mx-1"
+            >
+              September 13, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Interdimensional Cable 2: Tempting Fate
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E08
+            </li>
+            <li
+              class="mx-1"
+            >
+              September 20, 2015
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Look Who's Purging Now
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              S02E09
+            </li>
+            <li
+              class="mx-1"
+            >
+              September 27, 2015
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="mx-4"
+    >
+      <div
+        class="float-right space-x-3 m-4"
+      >
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+          hidden=""
+        >
+          Previous Page
+        </button>
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+        >
+          Next Page
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ListLocations renders inline with snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col grow"
+    id="list-episodes"
+  >
+    <div
+      class="flex flex-col grow relative overflow-auto"
+    >
+      <div
+        class="absolute flex flex-wrap"
+      >
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              TEST
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Abadango
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Cluster
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Citadel of Ricks
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Space station
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Worldender's lair
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Anatomy Park
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Microverse
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Interdimensional Cable
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              TV
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Immortality Field Resort
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Resort
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Post-Apocalyptic Earth
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Purge Planet
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Venzenulon 7
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Bepis 9
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Cronenberg Earth
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Nuptia 4
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Giant's Town
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Fantasy town
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Bird World
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              St. Gloopy Noops Hospital
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Space station
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Earth (5-126)
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Mr. Goldenfold's dream
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Dream
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Gromflom Prime
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+        <div
+          class="m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
+        >
+          <ul
+            class="text-center flex flex-col justify-center"
+            style="width: 330px; height: 100px;"
+          >
+            <li
+              class="text-xl truncate overflow-hidden mx-1"
+            >
+              Earth (Replacement Dimension)
+            </li>
+            <li
+              class="truncate overflow-hidden mx-1"
+            >
+              Planet
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="mx-4"
+    >
+      <div
+        class="float-right space-x-3 m-4"
+      >
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+          hidden=""
+        >
+          Previous Page
+        </button>
+        <button
+          class="bg-slate-700 px-3 py-2 rounded hover:bg-slate-600"
+        >
+          Next Page
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

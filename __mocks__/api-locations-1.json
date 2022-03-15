@@ -1,0 +1,112 @@
+ {
+    "locations": {
+      "info": {
+        "count": 126,
+        "pages": 7,
+        "next": 2,
+        "prev": null
+      },
+      "results": [
+        {
+          "id": "1",
+          "name": "TEST",
+          "type": "Planet"
+        },
+        {
+          "id": "2",
+          "name": "Abadango",
+          "type": "Cluster"
+        },
+        {
+          "id": "3",
+          "name": "Citadel of Ricks",
+          "type": "Space station"
+        },
+        {
+          "id": "4",
+          "name": "Worldender's lair",
+          "type": "Planet"
+        },
+        {
+          "id": "5",
+          "name": "Anatomy Park",
+          "type": "Microverse"
+        },
+        {
+          "id": "6",
+          "name": "Interdimensional Cable",
+          "type": "TV"
+        },
+        {
+          "id": "7",
+          "name": "Immortality Field Resort",
+          "type": "Resort"
+        },
+        {
+          "id": "8",
+          "name": "Post-Apocalyptic Earth",
+          "type": "Planet"
+        },
+        {
+          "id": "9",
+          "name": "Purge Planet",
+          "type": "Planet"
+        },
+        {
+          "id": "10",
+          "name": "Venzenulon 7",
+          "type": "Planet"
+        },
+        {
+          "id": "11",
+          "name": "Bepis 9",
+          "type": "Planet"
+        },
+        {
+          "id": "12",
+          "name": "Cronenberg Earth",
+          "type": "Planet"
+        },
+        {
+          "id": "13",
+          "name": "Nuptia 4",
+          "type": "Planet"
+        },
+        {
+          "id": "14",
+          "name": "Giant's Town",
+          "type": "Fantasy town"
+        },
+        {
+          "id": "15",
+          "name": "Bird World",
+          "type": "Planet"
+        },
+        {
+          "id": "16",
+          "name": "St. Gloopy Noops Hospital",
+          "type": "Space station"
+        },
+        {
+          "id": "17",
+          "name": "Earth (5-126)",
+          "type": "Planet"
+        },
+        {
+          "id": "18",
+          "name": "Mr. Goldenfold's dream",
+          "type": "Dream"
+        },
+        {
+          "id": "19",
+          "name": "Gromflom Prime",
+          "type": "Planet"
+        },
+        {
+          "id": "20",
+          "name": "Earth (Replacement Dimension)",
+          "type": "Planet"
+        }
+      ]
+    }
+  }
