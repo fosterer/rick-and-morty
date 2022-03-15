@@ -1,9 +1,12 @@
-import { SearchBox } from "@/features/header/components/OBSOLETE__SearchBox";
+import { SearchBox } from "@/features/header/components/SearchBox";
 
 export const IndexHeader = () => {
   return (
-    <header className="flex items-center z-10 w-full h-16 bg-slate-700">
-      <div className="m-6 text-slate-100 text-lg">Rick and Morty Explorer</div>
+    <header className="flex flex-wrap items-center w-full bg-slate-700 p-4 space-x-3">
+      <div className="text-slate-100 text-lg m-1">
+        Rick and Morty Series Explorer
+      </div>
+      <SearchBox />
     </header>
   );
 };

@@ -1,9 +1,11 @@
-import { Character, Episode, Info } from "@/types/typesGraphApi";
+import { EpisodesDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
+import { useState } from "react";
+import { useIndexStore } from "@/stores/indexStore";
 
 const useEpisodesDataQuery = gql`
-  query useEpisodesDataQuery($page: Int) {
-    episodes(page: $page) {
+  query useEpisodesDataQuery($page: Int, $name: String) {
+    episodes(page: $page, filter: { name: $name }) {
       info {
         count
         pages
@@ -20,21 +22,21 @@ const useEpisodesDataQuery = gql`
   }
 `;
 
-interface EpisodeDataQuery {
-  episodes: {
-    info: Info;
-    results: Pick<Episode, "id" | "name" | "air_date" | "episode">[];
-  };
-}
-
-export const useEpisodesData = (page: number) => {
-  const { data, loading, error } = useQuery<EpisodeDataQuery>(
+export const useEpisodesData = () => {
+  const [page, setPage] = useState(1);
+  const [filter, setFilter] = useState("");
+  const userInputFilter = useIndexStore((state) => state.queryParamName);
+  if (filter !== userInputFilter) {
+    setPage(1);
+    setFilter(userInputFilter);
+  }
+  const { data, loading, error } = useQuery<EpisodesDataQuery>(
     useEpisodesDataQuery,
     {
-      variables: { page: page },
+      variables: { page: page, name: filter },
       errorPolicy: "ignore",
     }
   );
 
-  return { data, loading, error };
+  return { data, loading, error, setPage };
 };

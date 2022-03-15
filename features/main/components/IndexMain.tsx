@@ -5,15 +5,15 @@ import { Tab } from "@headlessui/react";
 import { ReactNode } from "react";
 
 const StyledTab = ({ children }: { children: ReactNode }) => (
-  <Tab>
+  <Tab as="span">
     {({ selected }) => (
-      <span
-        className={`py-2 px-3 mx-1 rounded ${
+      <div
+        className={`py-2 px-3 m-1 rounded ${
           selected ? "bg-slate-500" : "bg-slate-800 hover:bg-slate-600"
         }`}
       >
         {children}
-      </span>
+      </div>
     )}
   </Tab>
 );
@@ -21,7 +21,7 @@ const StyledTab = ({ children }: { children: ReactNode }) => (
 export const IndexMain = () => {
   return (
     <Tab.Group as="div" id="index-main-tabs" className="flex flex-col grow">
-      <Tab.List className="m-4">
+      <Tab.List className="m-2 flex flex-wrap">
         <StyledTab>Characters</StyledTab>
         <StyledTab>Episodes</StyledTab>
         <StyledTab>Locations</StyledTab>

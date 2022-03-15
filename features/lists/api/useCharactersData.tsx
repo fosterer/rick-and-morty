@@ -1,9 +1,11 @@
-import { Character, Info } from "@/types/typesGraphApi";
+import { CharactersDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
+import { useIndexStore } from "@/stores/indexStore";
+import { useState } from "react";
 
 const useCharactersDataQuery = gql`
-  query useCharactersDataQuery($page: Int) {
-    characters(page: $page) {
+  query useCharactersDataQuery($page: Int, $name: String) {
+    characters(page: $page, filter: { name: $name }) {
       info {
         count
         pages
@@ -21,21 +23,21 @@ const useCharactersDataQuery = gql`
   }
 `;
 
-interface CharacterDataQuery {
-  characters: {
-    info: Info;
-    results: Pick<Character, "id" | "name" | "status" | "species" | "image">[];
-  };
-}
-
-export const useCharactersData = (page: number) => {
-  const { data, loading, error } = useQuery<CharacterDataQuery>(
+export const useCharactersData = () => {
+  const [page, setPage] = useState(1);
+  const [filter, setFilter] = useState("");
+  const userInputFilter = useIndexStore((state) => state.queryParamName);
+  if (filter !== userInputFilter) {
+    setPage(1);
+    setFilter(userInputFilter);
+  }
+  const { data, loading, error } = useQuery<CharactersDataQuery>(
     useCharactersDataQuery,
     {
-      variables: { page: page },
+      variables: { page: page, name: filter },
       errorPolicy: "ignore",
     }
   );
 
-  return { data, loading, error };
+  return { data, loading, error, setPage };
 };

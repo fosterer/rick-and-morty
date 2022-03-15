@@ -10,6 +10,6 @@ test("Home renders inline with snapshot", async () => {
     </ApolloProvider>
   );
 
-  await waitFor(() => container.innerHTML.includes("TEST Sanchez"));
+  await waitFor(() => screen.getByText("TEST Sanchez"));
   expect(container).toMatchSnapshot();
 });
