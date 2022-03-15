@@ -1,9 +1,11 @@
 import { LocationsDataQuery } from "../types/types";
 import { gql, useQuery } from "@apollo/client";
+import { useEffect, useState } from "react";
+import { useIndexStore } from "@/stores/indexStore";
 
 const useLocationsDataQuery = gql`
-  query useLocationsDataQuery($page: Int) {
-    locations(page: $page) {
+  query useLocationsDataQuery($page: Int, $name: String) {
+    locations(page: $page, filter: { name: $name }) {
       info {
         count
         pages
@@ -19,14 +21,24 @@ const useLocationsDataQuery = gql`
   }
 `;
 
-export const useLocationsData = (page: number) => {
+export const useLocationsData = () => {
+  const [page, setPage] = useState(1);
+  const [filter, setFilter] = useState("");
+  const userInputFilter = useIndexStore((state) => state.queryParamName);
   const { data, loading, error } = useQuery<LocationsDataQuery>(
     useLocationsDataQuery,
     {
-      variables: { page: page },
+      variables: { page: page, name: filter },
       errorPolicy: "ignore",
     }
   );
 
-  return { data, loading, error };
+  useEffect(() => {
+    if (filter !== userInputFilter) {
+      setPage(1);
+      setFilter(userInputFilter);
+    }
+  }, [userInputFilter]);
+
+  return { data, loading, error, setPage };
 };

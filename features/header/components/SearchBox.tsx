@@ -12,8 +12,8 @@ export const SearchBox = () => {
   return (
     <span>
       <input
-        className="m-1 ring px-2 py-1 rounded focus:outline-none focus:ring-blue-500 bg-slate-300 placeholder:text-slate-700"
-        placeholder="Type to discover..."
+        className="m-1 ring px-2 py-1 rounded focus:outline-none focus:ring-blue-500 bg-slate-300 text-slate-800 placeholder:text-slate-700"
+        placeholder="Find by name..."
         type={"text"}
         value={value}
         autoFocus
