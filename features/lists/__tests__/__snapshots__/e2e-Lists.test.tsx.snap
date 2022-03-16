@@ -16,11 +16,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -75,11 +75,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -134,11 +134,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -193,11 +193,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -252,11 +252,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -311,11 +311,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -370,11 +370,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -429,11 +429,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -488,11 +488,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -547,11 +547,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -606,11 +606,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -665,11 +665,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -724,11 +724,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -783,11 +783,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -842,11 +842,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -901,11 +901,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -960,11 +960,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1019,11 +1019,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1078,11 +1078,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1137,11 +1137,11 @@ exports[`ListCharacters renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1233,11 +1233,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1267,11 +1267,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1301,11 +1301,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1335,11 +1335,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1369,11 +1369,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1403,11 +1403,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1437,11 +1437,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1471,11 +1471,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1505,11 +1505,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1539,11 +1539,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1573,11 +1573,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1607,11 +1607,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1641,11 +1641,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1675,11 +1675,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1709,11 +1709,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1743,11 +1743,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1777,11 +1777,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1811,11 +1811,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1845,11 +1845,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1879,11 +1879,11 @@ exports[`ListEpisodes renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1950,11 +1950,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -1979,11 +1979,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2008,11 +2008,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2037,11 +2037,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2066,11 +2066,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2095,11 +2095,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2124,11 +2124,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2153,11 +2153,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2182,11 +2182,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2211,11 +2211,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2240,11 +2240,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2269,11 +2269,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2298,11 +2298,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2327,11 +2327,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2356,11 +2356,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2385,11 +2385,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2414,11 +2414,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2443,11 +2443,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2472,11 +2472,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
@@ -2501,11 +2501,11 @@ exports[`ListLocations renders inline with snapshot 1`] = `
           class="relative m-3 ring rounded p-1 ring-yellow-700 bg-slate-400 text-slate-800"
         >
           <div
-            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center"
+            class="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute -inset-0 rounded flex flex-col justify-center place-items-center"
             id="hover-overlay"
           >
             <button
-              class="px-3 py-2 text-lg bg-slate-600 hover:bg-slate-800 text-slate-200"
+              class="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded"
             >
               View
             </button>
