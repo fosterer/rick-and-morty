@@ -1,6 +1,5 @@
+import { CardCharacter } from "@/features/card";
 import { useCharactersData } from "../api/useCharactersData";
-import { useState } from "react";
-import { CardCharacter } from "./CardCharacter";
 import { ListLayout } from "./layouts/ListLayout";
 
 export const ListCharacters = () => {

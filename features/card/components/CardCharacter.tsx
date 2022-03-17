@@ -1,6 +1,6 @@
-import { CharactersResult } from "../types/types";
+import { CharactersResult } from "../../../types/typesQuery";
 import Image from "next/image";
-import { CardLayout } from "@/features/lists/components/layouts/CardLayout";
+import { CardLayout } from "@/features/card/components/layouts/CardLayout";
 
 export const CardCharacter = (data: CharactersResult) => {
   return (

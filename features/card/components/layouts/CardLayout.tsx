@@ -1,4 +1,5 @@
 import { Maybe } from "@/types/typesGraphApi";
+import Link from "next/link";
 import { ReactNode } from "react";
 
 interface Props {
@@ -14,9 +15,11 @@ export const CardLayout = ({ children, __typename, id }: Props) => {
         id="hover-overlay"
         className="bg-slate-400 opacity-0 hover:opacity-80 z-50 absolute  -inset-0 rounded flex flex-col justify-center place-items-center"
       >
-        <button className="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded">
-          View
-        </button>
+        <Link href={`/${__typename}/${id}`}>
+          <button className="px-3 py-2 text-lg bg-slate-800 hover:bg-slate-900 text-slate-100 rounded">
+            View
+          </button>
+        </Link>
       </div>
       {children}
     </div>

@@ -1,6 +1,5 @@
+import { CardEpisode } from "@/features/card";
 import { useEpisodesData } from "../api/useEpisodesData";
-import { useState } from "react";
-import { CardEpisode } from "./CardEpisode";
 import { ListLayout } from "./layouts/ListLayout";
 
 export const ListEpisodes = () => {

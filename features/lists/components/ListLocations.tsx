@@ -1,5 +1,4 @@
-import { CardLocation } from "./CardLocation";
-import { useState } from "react";
+import { CardLocation } from "@/features/card";
 import { useLocationsData } from "../api/useLocationsData";
 import { ListLayout } from "./layouts/ListLayout";
 
