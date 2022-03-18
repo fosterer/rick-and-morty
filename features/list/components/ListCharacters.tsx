@@ -20,7 +20,8 @@ export const ListCharacters = () => {
         cardList: cards,
         nextPage: data.characters.info.next,
         previousPage: data.characters.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.characters.info,
       }}
     />
   );

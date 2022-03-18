@@ -20,7 +20,8 @@ export const ListEpisodes = () => {
         cardList: cards,
         nextPage: data.episodes.info.next,
         previousPage: data.episodes.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.episodes.info,
       }}
     />
   );

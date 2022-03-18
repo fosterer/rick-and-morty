@@ -20,7 +20,8 @@ export const ListLocations = () => {
         cardList: cards,
         nextPage: data.locations.info.next,
         previousPage: data.locations.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.locations.info,
       }}
     />
   );
