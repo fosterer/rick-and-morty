@@ -3,7 +3,8 @@ import { useState } from "react";
 import { useDebouncedCallback } from "use-debounce";
 
 export const SearchBox = () => {
-  const [value, setValue] = useState("");
+  const phraseInStoreIfAny = useIndexStore((state) => state.queryParamName);
+  const [value, setValue] = useState(phraseInStoreIfAny);
   const setSearchPhrase = useDebouncedCallback(
     useIndexStore((state) => state.setQueryParamName),
     1500

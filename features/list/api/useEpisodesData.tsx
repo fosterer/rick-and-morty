@@ -1,4 +1,4 @@
-import { EpisodesDataQuery } from "../types/types";
+import { EpisodesDataQuery } from "../../../types/typesQuery";
 import { gql, useQuery } from "@apollo/client";
 import { useState } from "react";
 import { useIndexStore } from "@/stores/indexStore";

@@ -1,6 +1,5 @@
+import { CardEpisode } from "@/features/card";
 import { useEpisodesData } from "../api/useEpisodesData";
-import { useState } from "react";
-import { CardEpisode } from "./CardEpisode";
 import { ListLayout } from "./ListLayout";
 
 export const ListEpisodes = () => {
@@ -21,7 +20,8 @@ export const ListEpisodes = () => {
         cardList: cards,
         nextPage: data.episodes.info.next,
         previousPage: data.episodes.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.episodes.info,
       }}
     />
   );

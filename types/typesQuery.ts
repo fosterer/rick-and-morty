@@ -7,7 +7,10 @@ export interface LocationsDataQuery {
   };
 }
 
-export type LocationsResult = Pick<Location, "id" | "name" | "type">;
+export type LocationsResult = Pick<
+  Location,
+  "__typename" | "id" | "name" | "type"
+>;
 
 export interface EpisodesDataQuery {
   episodes: {
@@ -18,7 +21,7 @@ export interface EpisodesDataQuery {
 
 export type EpisodesResult = Pick<
   Episode,
-  "id" | "name" | "air_date" | "episode"
+  "__typename" | "id" | "name" | "air_date" | "episode"
 >;
 
 export interface CharactersDataQuery {
@@ -30,5 +33,5 @@ export interface CharactersDataQuery {
 
 export type CharactersResult = Pick<
   Character,
-  "id" | "name" | "status" | "species" | "image"
+  "__typename" | "id" | "name" | "status" | "species" | "image"
 >;

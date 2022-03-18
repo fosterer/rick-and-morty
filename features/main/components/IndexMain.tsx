@@ -1,6 +1,6 @@
-import { ListCharacters } from "@/features/lists";
-import { ListEpisodes } from "@/features/lists";
-import { ListLocations } from "@/features/lists";
+import { ListCharacters } from "@/features/list";
+import { ListEpisodes } from "@/features/list";
+import { ListLocations } from "@/features/list";
 import { Tab } from "@headlessui/react";
 import { ReactNode } from "react";
 

@@ -1,6 +1,5 @@
+import { CardCharacter } from "@/features/card";
 import { useCharactersData } from "../api/useCharactersData";
-import { useState } from "react";
-import { CardCharacter } from "./CardCharacter";
 import { ListLayout } from "./ListLayout";
 
 export const ListCharacters = () => {
@@ -21,7 +20,8 @@ export const ListCharacters = () => {
         cardList: cards,
         nextPage: data.characters.info.next,
         previousPage: data.characters.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.characters.info,
       }}
     />
   );

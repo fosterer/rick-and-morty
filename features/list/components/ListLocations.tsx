@@ -1,5 +1,4 @@
-import { CardLocation } from "./CardLocation";
-import { useState } from "react";
+import { CardLocation } from "@/features/card";
 import { useLocationsData } from "../api/useLocationsData";
 import { ListLayout } from "./ListLayout";
 
@@ -21,7 +20,8 @@ export const ListLocations = () => {
         cardList: cards,
         nextPage: data.locations.info.next,
         previousPage: data.locations.info.prev,
-        setPage,
+        setPage: setPage,
+        pagingInfo: data.locations.info,
       }}
     />
   );
