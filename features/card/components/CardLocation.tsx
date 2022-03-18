@@ -1,4 +1,4 @@
-import { CardLayout } from "@/features/card/components/layouts/CardLayout";
+import { CardLayout } from "@/features/card/components/CardLayout";
 import { LocationsResult } from "../../../types/typesQuery";
 
 export const CardLocation = (data: LocationsResult) => {

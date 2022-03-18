@@ -1,6 +1,6 @@
 import { CardEpisode } from "@/features/card";
 import { useEpisodesData } from "../api/useEpisodesData";
-import { ListLayout } from "./layouts/ListLayout";
+import { ListLayout } from "./ListLayout";
 
 export const ListEpisodes = () => {
   const { data, loading, error, setPage } = useEpisodesData();

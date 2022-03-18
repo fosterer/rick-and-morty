@@ -1,7 +1,7 @@
 import { screen, render, waitFor } from "@testing-library/react";
 import apolloClient from "@/lib/apollo";
 import { ApolloProvider } from "@apollo/client";
-import { ListCharacters, ListEpisodes, ListLocations } from "@/features/lists";
+import { ListCharacters, ListEpisodes, ListLocations } from "@/features/list";
 
 test("ListCharacters renders inline with snapshot", async () => {
   const { container } = render(

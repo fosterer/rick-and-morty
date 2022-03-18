@@ -1,6 +1,6 @@
 import { CardLocation } from "@/features/card";
 import { useLocationsData } from "../api/useLocationsData";
-import { ListLayout } from "./layouts/ListLayout";
+import { ListLayout } from "./ListLayout";
 
 export const ListLocations = () => {
   const { data, loading, error, setPage } = useLocationsData();

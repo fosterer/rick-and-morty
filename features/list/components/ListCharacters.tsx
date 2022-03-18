@@ -1,6 +1,6 @@
 import { CardCharacter } from "@/features/card";
 import { useCharactersData } from "../api/useCharactersData";
-import { ListLayout } from "./layouts/ListLayout";
+import { ListLayout } from "./ListLayout";
 
 export const ListCharacters = () => {
   const { data, loading, error, setPage } = useCharactersData();
