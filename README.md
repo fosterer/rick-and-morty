@@ -1,7 +1,6 @@
-# Rick and Morty API Explorer
-Simple Example with Nextjs, Apollo Client, Zustand and Tailwind CSS.
-
-Live Demo: https://p-ta1-rmk2j6n7t-fosterer.vercel.app/ 
+# Rick and Morty API Explorer / Client
+This project is a web app client for https://rickandmortyapi.com/
+Built with Nextjs, Apollo Client, Zustand and Tailwind CSS. 
 
 ## Run locally
 1. clone
