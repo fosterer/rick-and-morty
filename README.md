@@ -1,5 +1,5 @@
 # Rick and Morty API Explorer / Client
-This project is a web app client for https://rickandmortyapi.com/
+This project is a web app client for https://rickandmortyapi.com/.
 Built with Nextjs, Apollo Client, Zustand and Tailwind CSS. 
 
 ## Run locally
