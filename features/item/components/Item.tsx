@@ -14,6 +14,8 @@ export const Item = () => {
   if (item?.length !== 2) return <Error statusCode={404} />;
   const typename = item[0];
   if (!supportedEntities.includes(typename)) return <Error statusCode={404} />;
+  const id = item[1];
+  if (!parseInt(id)) return <Error statusCode={404} />;
 
   const views = new Map<string, ReactNode>([
     ["Character", <CharacterItem {...{ id: item[1] }} />],

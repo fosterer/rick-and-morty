@@ -2,6 +2,7 @@ import { CardCharacter } from "@/features/card";
 import { useEpisodeItemData } from "@/features/item/api/useEpisodeItemData";
 import { FieldText } from "@/features/item/components/FieldText";
 import { ListLayout } from "@/features/list";
+import Error from "next/error";
 
 export const EpisodeItem = ({ id }: { id: string }) => {
   const { data, loading, error } = useEpisodeItemData(id);
@@ -10,8 +11,9 @@ export const EpisodeItem = ({ id }: { id: string }) => {
     return (
       <div className="m-5">Oh no, an error occured... {error.message}</div>
     );
-  if (!data) throw new Error();
+  if (!data) throw "error";
   const item = data.episode;
+  if (item == null) return <Error statusCode={404} />;
   const cards = item.characters.map((character) => (
     <CardCharacter {...character} key={character?.id} />
   ));

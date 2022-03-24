@@ -1,5 +1,5 @@
-import { CardLayout } from "@/features/card/components/CardLayout";
-import { EpisodesResult } from "../../../types/typesQuery";
+import { CardLayout } from "./CardLayout";
+import { EpisodesResult } from "@/types/typesQuery";
 
 export const CardEpisode = (data: EpisodesResult) => {
   return (

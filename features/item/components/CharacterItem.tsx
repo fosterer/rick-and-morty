@@ -4,14 +4,16 @@ import { FieldText } from "./FieldText";
 import Image from "next/image";
 import { ListLayout } from "@/features/list";
 import { CardEpisode } from "@/features/card";
+import Error from "next/error";
 
 export const CharacterItem = ({ id }: { id: string }) => {
   const { data, loading, error } = useCharacterItemData(id);
   if (loading) return <div className="m-5">Loading...</div>;
   if (error)
     return <div className="m-5">Oh no, error occured... {error.message}</div>;
-  if (!data) throw new Error();
+  if (!data) throw 'error';
   const item = data.character;
+  if (item == null) return <Error statusCode={404} />;
   const cards = item.episode.map((episode) => (
     <CardEpisode {...episode} key={episode?.id} />
   ));
