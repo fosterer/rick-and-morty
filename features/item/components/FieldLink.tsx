@@ -17,7 +17,7 @@ export const FieldLink = ({
       <span>{title}</span>
       <Link href={`/${type}/${id}`}>
         <button
-          disabled={id === null}
+          disabled={id == null}
           className="hover:underline hover:text-white disabled:hover:no-underline"
         >
           <strong className="text-lg">{name}</strong>
