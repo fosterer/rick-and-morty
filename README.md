@@ -2,6 +2,9 @@
 This project is a web app client for https://rickandmortyapi.com/.
 Built with Nextjs, Apollo Client, Zustand and Tailwind CSS. 
 
+## Live Demo
+https://rick-and-morty-blue.vercel.app/
+
 ## Run locally
 1. clone
 1. `yarn install` (or `npm i`)
